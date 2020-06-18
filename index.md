@@ -7,3 +7,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 My quote:
 > My code is guaranteed 100% mistrake free
+
+My image:
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/User_Avatar_Person_Info_Information-512.png" />
