@@ -4,3 +4,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * quickly tired
 * can eat a lot
 * TV junkie
+
+My quote:
+> My code is guaranteed 100% mistrake free
